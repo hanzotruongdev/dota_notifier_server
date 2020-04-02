@@ -1,0 +1,9 @@
+flask
+gunicorn
+flask-sqlalchemy
+Flask-Script
+Flask-Migrate
+psycopg2
+requests
+flask-jwt-extended
+firebase-admin
