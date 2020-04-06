@@ -14,7 +14,7 @@
 
 ## What is DotA Notifier API Server?
 
-The API Server behinds the DotA Notifier Mobile app https://github.com/noitq/dota_notifier_server
+The API Server behinds the DotA Notifier Mobile app https://github.com/noitq/dota_notifier_moible_app
 
 DotA Notifier is an app allows users following DotA2 Pro Players. 
 
